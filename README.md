@@ -1,2 +1,2 @@
 # features
-Magento Features Development is an Initiative to Allows Community Memebers Join to Development of Magento Features
+Magento Features Development is an Initiative which Allows Community Members to Join Development of Magento Features
